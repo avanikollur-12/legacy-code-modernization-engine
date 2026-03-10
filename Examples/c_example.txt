@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+main()
+{
+int i;
+int marks[5]={45,67,89,34,90};
+
+for(i=0;i<5;i++)
+{
+if(marks[i]>=50)
+printf("Pass");
+else
+printf("Fail");
+}
+}
