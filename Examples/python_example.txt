@@ -1,1 +1,13 @@
+print "Employee Salary System"
 
+emp=["Ravi","Meena","Arjun"]
+salary=[25000,32000,28000]
+
+for i in range(0,len(emp)):
+    print emp[i],"salary is",salary[i]
+
+total=0
+for i in range(0,len(salary)):
+    total=total+salary[i]
+
+print "Total salary =",total
