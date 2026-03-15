@@ -11,6 +11,13 @@ Python module that processes legacy code patterns and converts them into modern 
 3. Output Module
 Displays improved code with better formatting and modern syntax.
 
-Workflow:
+System Workflow
 
-User Input → Streamlit Interface → Modernization Engine → Modern Code Output
+User Input
+   ↓
+Streamlit Web Interface
+   ↓
+Code Modernization Engine
+   ↓
+Formatted Modern Code Output
+
