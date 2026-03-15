@@ -89,7 +89,7 @@ docs/ – System architecture and project documentation
 
 Clone the repository
 
-git clone https://github.com/yourusername/legacy-code-modernization-engine
+git clone https://github.com/avanikollur-12/legacy-code-modernization-engine
 
 Navigate to the project folder
 
