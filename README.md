@@ -137,3 +137,9 @@ It’s fast, simple, and practical."
 
 Hackathon / Academic Project  
 Built for real-world impact 🚀
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
