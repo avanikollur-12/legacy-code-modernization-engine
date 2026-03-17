@@ -1,116 +1,139 @@
-🚀 Legacy Code Modernization Engine
-✨ Transform Old Code → Modern Code in Seconds
+# 🚀 Legacy Code Modernization Engine
 
-🌐 Live Demo:
+### ✨ Transform Old Code → Modern Code in Seconds
+
+🌐 **Live Demo:**  
 https://legacy-code-modernization-engine-dxnbyg5stm8myztck9zepr.streamlit.app/
 
-🧠 Overview
+---
+
+## 🧠 Overview
 
 Legacy code is difficult to read, maintain, and upgrade.
 
 This project is a smart developer tool that automatically converts outdated code into modern, clean, and structured code — instantly.
 
-It showcases how automation can simplify legacy system maintenance.
+It demonstrates how automation can simplify legacy system maintenance.
 
-❗ Problem
+---
 
-• Outdated syntax
-• Poor readability
-• Hard debugging
-• Time-consuming manual refactoring
+## ❗ Problem
 
-💡 Solution
+- Outdated syntax  
+- Poor readability  
+- Hard debugging  
+- Time-consuming manual refactoring  
+
+---
+
+## 💡 Solution
 
 A simple tool where users:
 
-Paste legacy code
+1. Paste legacy code  
+2. Click **Modernize Code**  
+3. Instantly get a clean, modern version  
 
-Click Modernize Code
+---
 
-Instantly get a clean, modern version
+## ⚡ Key Features
 
-⚡ Key Features
+- 🔍 Automatic Language Detection  
+- 🔄 Legacy → Modern Conversion  
+- 📊 Side-by-Side Comparison  
+- 📥 Download Modern Code  
+- ⚡ Real-time Processing  
+- 🎯 Simple & Clean UI  
 
-• 🔍 Automatic Language Detection
-• 🔄 Legacy → Modern Conversion
-• 📊 Side-by-Side Comparison
-• 📥 Download Modern Code
-• ⚡ Real-time Processing
-• 🎯 Simple & Clean UI
+---
 
-💻 Supported Languages
+## 💻 Supported Languages
 
-• Python
-• C
-• Java
+- Python  
+- C  
+- Java  
 
-🏗 Architecture
-User Input
-   ↓
-Streamlit UI
-   ↓
-Language Detection
-   ↓
-Modernization Engine
-   ↓
-Comparison View
-   ↓
-Download Output
-📁 Project Structure
+---
+
+## 🏗 Architecture
+
+User Input  
+↓  
+Streamlit UI  
+↓  
+Language Detection  
+↓  
+Modernization Engine  
+↓  
+Comparison View  
+↓  
+Download Output  
+
+---
+
+## 📁 Project Structure
+
 legacy-code-modernization-engine/
 
-app.py
-modernization.py
-requirements.txt
-README.md
+app.py  
+modernization.py  
+requirements.txt  
+README.md  
 
-examples/
-docs/
-🚀 Quick Demo (For Judges)
+examples/  
+docs/  
 
-👉 Just open the live link — no setup needed
+---
 
-Paste any legacy code
+## 🚀 Quick Demo (For Judges)
 
-Click Modernize Code
+👉 Just open the live link — no setup needed  
 
-View:
+1. Paste any legacy code  
+2. Click **Modernize Code**  
+3. View:
+   - Detected Language  
+   - Modern Code  
+   - Before vs After Comparison  
+4. Download result  
 
-Detected Language
+---
 
-Modern Code
+## 🛠 Tech Stack
 
-Before vs After Comparison
+- Python  
+- Streamlit  
+- GitHub  
 
-Download result
+---
 
-🛠 Tech Stack
+## 🎯 Why This Project?
 
-• Python
-• Streamlit
-• GitHub
+- Saves developer time  
+- Improves code quality  
+- Simplifies legacy maintenance  
+- Demonstrates real-world impact  
 
-🎯 Why This Project?
+---
 
-• Saves developer time
-• Improves code quality
-• Simplifies legacy maintenance
-• Demonstrates real-world impact
+## 🎤 Hackathon Pitch
 
-🎤 Hackathon Pitch
+"Many companies still rely on legacy code.  
+Our tool automatically converts it into modern, readable code in seconds — with comparison and download features.  
+It’s fast, simple, and practical."
 
-“Many companies still rely on legacy code.
-Our tool automatically converts it into modern, readable code in seconds — with comparison and download features.
-It’s fast, simple, and practical.”
+---
 
-🔮 Future Scope
+## 🔮 Future Scope
 
-• AI-based smart refactoring
-• More language support
-• Full repo modernization
-• Code optimization
+- AI-based smart refactoring  
+- More language support  
+- Full repository modernization  
+- Code optimization  
 
-👩‍💻 Author
+---
 
-Hackathon / Academic Project
+## 👩‍💻 Author
+
+Hackathon / Academic Project  
 Built for real-world impact 🚀
